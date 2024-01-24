@@ -1,4 +1,4 @@
-# spotify-full
+# Spotify Landing Page Clone - Alura Workshop Portfolio
 Este repositório GitHub serve como uma vitrine das minhas habilidades e experiência adquiridas através do Alura Workshop, onde estou clonando a landing page do Spotify. O projeto foi projetado para replicar a aparência da página inicial do Spotify, demonstrando minha proficiência em desenvolvimento front-end.
 
 Destaques do projeto
